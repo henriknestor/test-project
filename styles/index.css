@@ -1,0 +1,45 @@
+body {
+    background-image: url(../images/forest.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border: 10px solid black;
+    border-top: 5px solid green;
+    border-radius: 70% 10% 0% 20%;
+    box-shadow: 40px 10px 20px blue;
+}
+
+h1 {
+    color: green;
+    font-size: 80px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+/* For comments*/
+
+p {
+    color:red;
+    color:orange;
+}
+
+#second-paragraph {
+    color:blue;
+    opacity: 0.5;
+}
+
+#fifth-paragraph {
+    background-color: rgba(137, 43, 226, 0.421);
+}
+
+.cat-info, .important {
+    color:pink;
+}
